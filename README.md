@@ -1,5 +1,7 @@
 # PanelTR: Zero-Shot Table Reasoning Framework Through Multi-Agent Scientific Discussion
 
+[![arXiv](https://img.shields.io/badge/arXiv-2508.06110-b31b1b.svg)](https://arxiv.org/abs/2508.06110)
+
 PanelTR is a powerful framework for zero-shot table reasoning using Large Language Model (LLM) agents that mimics scientific methodology. It leverages multi-agent collaboration through structured scientific discussion involving Investigation, Self-Review, and Peer-Review processes.
 
 ## 🌟 Key Features
