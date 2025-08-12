@@ -1,0 +1,1 @@
+python feverous/src/feverous/evaluation/evaluate.py --input_path feverous/output/{}.jsonl
